@@ -1,3 +1,6 @@
+//package to pull data:
+//https://github.com/sstrickx/yahoofinance-api
+
 
 /**
  * Class for holding stock specific data for use in User presented data and alerts.
