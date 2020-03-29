@@ -55,7 +55,7 @@ public class DataPull {
 		
 		
 		//api key =JRVCT84VUG4TM97S
-		//add json to project build path with link below
+		//add json jar to project build path with link below
 		//https://www.wikihow.com/Add-JARs-to-Project-Build-Paths-in-Eclipse-(Java)
 		         try {
 		        	String json = getJSON("https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=IBM&outputsize=full&apikey=JRVCT84VUG4TM97S.");
