@@ -10,9 +10,9 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-public class GetData {
+public class DataPull {
 
-	public GetData() {
+	public DataPull() {
 		// TODO Auto-generated constructor stub
 	}
 	
